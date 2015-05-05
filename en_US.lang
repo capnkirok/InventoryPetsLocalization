@@ -1,0 +1,60 @@
+item.petSlime.name=Slime Pet
+item.petGhast.name=Ghast Pet
+item.petWither.name=Wither Pet
+item.petCreeper.name=Creeper Pet
+item.petEnderman.name=Enderman Pet
+item.petIronGolem.name=Iron Golem Pet
+item.petSnowGolem.name=Snow Golem Pet
+item.petSpider.name=Spider Pet
+item.petMagmaCube.name=Magma Cube Pet
+
+item.petSheep.name=Sheep Pet
+item.petCow.name=Cow Pet
+item.petChicken.name=Chicken Pet
+item.petPig.name=Pig Pet
+item.petSquid.name=Squid Pet
+item.petOcelot.name=Ocelot Pet
+
+item.petFurnace.name=Furnace Pet
+item.petEnchantingTable.name=Enchanting Table Pet
+item.petCraftingTable.name=Crafting Table Pet
+item.petChest.name=Chest Pet
+item.petDoubleChest.name=Double Chest Pet
+item.petBed.name=Bed Pet
+item.petJukebox.name=Jukebox Pet
+item.petAnvil.name=Anvil Pet
+item.petBrewingStand.name=Brewing Stand Pet
+
+item.petPingot.name=Pingot Pet
+item.petMickerson.name=Mickerson
+item.petPurpliciousCow.name=Purplicious Cow Pet
+item.petNetherPortal.name=Nether Portal Pet
+
+item.petCloud.name=Cloud Pet
+item.petBlackHole.name=Black Hole Pet
+item.petPufferfish.name=Pufferfish Pet
+item.petQuantumCrystalMonster.name=Quantum Crystal Monster Pet
+
+item.diamondNugget.name=Diamond Nugget
+item.obsidianNugget.name=Obsidian Nugget
+item.coalNugget.name=Coal Nugget
+item.emeraldNugget.name=Emerald Nugget
+item.ironNugget.name=Iron Nugget
+item.enderNugget.name=Ender Nugget
+item.lapisNugget.name=Lapis Nugget
+
+tile.cloudblock.name=Cloud Block
+tile.cloudspawn.name=Cloud Spawner
+tile.sandblock.name=Sand Block
+tile.sandspawn.name=Sand Spawner
+tile.stoneblock.name=Stone Block
+tile.stonespawn.name=Stone Spawner
+
+forge.client.shutdown.internal=Your Pets Say Goodbye!
+forge.update.newversion=Inventory Pets Rocks!
+
+entity.InventoryPets.MiniQuantumBlaze.name=Mini Quantum Blaze
+entity.InventoryPets.MiniQuantumEnderman.name=Mini Quantum Enderman
+
+item.netherportal.noreturn=Cannot find last return point, returning to last known Spawn point
+
