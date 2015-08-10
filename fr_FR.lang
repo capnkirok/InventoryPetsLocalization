@@ -1,0 +1,80 @@
+item.petSlime.name=Slime de compagnie
+item.petGhast.name=Ghast de compagnie
+item.petWither.name=Wither de compagnie
+item.petCreeper.name=Creeper de compagnie
+item.petEnderman.name=Enderman de compagnie
+item.petIronGolem.name=Golem de fer de compagnie
+item.petSnowGolem.name=Golem de neige de compagnie
+item.petSpider.name=Araign√©e de compagnie
+item.petMagmaCube.name=Cube de magma de compagnie
+
+item.petSheep.name=Mouton de compagnie
+item.petCow.name=Vache de compagnie
+item.petChicken.name=Poule de compagnie
+item.petPig.name=Cochon de compagnie
+item.petSquid.name=Poulpe de compagnie
+item.petOcelot.name=Ocelot de compagnie
+
+item.petFurnace.name=Four de compagnie
+item.petEnchantingTable.name=Table d'enchantement de compagnie
+item.petCraftingTable.name=Table de crafting de compagnie
+item.petChest.name=Coffre de compagnie
+item.petDoubleChest.name=Double Coffre de compagnie
+item.petBed.name=Lit de compagnie
+item.petJukebox.name=Lecteur de disque de compagnie
+item.petAnvil.name=Enclume de compagnie
+item.petBrewingStand.name=Alambic de compagnie
+
+item.petPingot.name="Pingot" de compagnie
+item.petMickerson.name="Mickerson"
+item.petPurpliciousCow.name="Purplicious Cow" de compagnie
+item.petNetherPortal.name= Mini Portail du Nether de Compagnie
+
+item.petCloud.name=Nuage de compagnie
+item.petBlackHole.name=Trou noir de compagnie
+item.petPufferfish.name=Poisson ballon de compagnie
+item.petQuantumCrystalMonster.name=Monster quantique de cristal de compagnie
+
+item.petShield.name=Bouclier de Companie
+item.petMoon.name=Lune de Companie
+item.petHeart.name=Coeur de Companie
+item.petDubstep.name=Lecteur de Dubstep de Companie
+item.petSponge.name=√âponge de Companie
+item.petBanana.name=Banane de Companie
+item.petBlaze.name=Blaze de Companie
+item.petEnderChest.name=Coffre de l'Ender de Companie
+item.petMooshroom.name=Champimeuh de Companie
+item.petBlaze.name=Blaze de Companie
+item.petLoot.name=Butin de Companie
+
+item.diamondNugget.name=P√©pite de diamant
+item.obsidianNugget.name=P√©pite d'obsidienne
+item.coalNugget.name=P√©pite de charbon
+item.emeraldNugget.name=P√©pite d'√©meraude
+item.ironNugget.name=P√©pite de fer
+item.enderNugget.name=P√©pite de l'ender
+item.lapisNugget.name=P√©pite de Lapis Lazuli
+item.enderNugget.name=P√©pite de l'Ender
+
+tile.cloudblock.name=Bloc de nuage
+tile.cloudspawn.name= Invocateur de nuage
+tile.sandblock.name=Bloc de sable
+tile.sandspawn.name= Invocateur de sable
+tile.stoneblock.name= Bloc de pierre
+tile.stonespawn.name= Invocateur de pierre
+
+entity.InventoryPets.MiniQuantumBlaze.name=Mini Blaze Quantique
+entity.InventoryPets.MiniQuantumEnderman.name=Mini Enderman Quantique
+item.netherportal.noreturn= Impossible de trouver le dernier point de retour, t√©l√©portation vers le dernier point connu !
+tile.bed.notHere=Tu ne peux pas dormir ici.
+
+container.petnamer=Baptiseur d'animaux de companie.
+
+gui.accept=Valider
+
+item.chestpet.toomany=Tu ne peux pas utiliser plus d'un Coffre dans la barre d'acc√©s rapide.
+
+item.doublechestpet.toomany=Tu ne peux pas utiliser plus d'un Double Coffre dans la barre d'acc√©s rapide.
+
+inventorypets.update.download=["Met √† jour ce mod pour plus de nouveaut√©s ! [",{"text":"CurseForge","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Clique ici pour voir le lien !","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/mc-mods/229380-inventory-pets/files"}},"]"]
+
