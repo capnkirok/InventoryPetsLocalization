@@ -1,4 +1,3 @@
-item.petSlime.name=Slime Pet
 item.petGhast.name=Ghast Pet
 item.petWither.name=Wither Pet
 item.petCreeper.name=Creeper Pet
@@ -7,6 +6,7 @@ item.petIronGolem.name=Iron Golem Pet
 item.petSnowGolem.name=Snow Golem Pet
 item.petSpider.name=Spider Pet
 item.petMagmaCube.name=Magma Cube Pet
+item.petBlaze.name=Blaze pet
 
 item.petSheep.name=Sheep Pet
 item.petCow.name=Cow Pet
@@ -24,16 +24,30 @@ item.petBed.name=Bed Pet
 item.petJukebox.name=Jukebox Pet
 item.petAnvil.name=Anvil Pet
 item.petBrewingStand.name=Brewing Stand Pet
+item.petNetherPortal.name=Nether Portal Pet
 
 item.petPingot.name=Pingot Pet
 item.petMickerson.name=Mickerson
 item.petPurpliciousCow.name=Purplicious Cow Pet
-item.petNetherPortal.name=Nether Portal Pet
+item.petQuantumCrystalMonster.name=Quantum Crystal Monster Pet
+item.petBanana.name=Banana Pet
 
 item.petCloud.name=Cloud Pet
 item.petBlackHole.name=Black Hole Pet
 item.petPufferfish.name=Pufferfish Pet
-item.petQuantumCrystalMonster.name=Quantum Crystal Monster Pet
+item.petSlime.name=Slime Pet
+
+item.petShield.name=Shield Pet
+item.petMoon.name=Moon Pet
+item.petHeart.name=Heart Pet
+item.petDubstep.name=Dubstep Pet
+item.petSponge.name=Sponge Pet
+item.petBanana.name=Banana Pet
+item.petBlaze.name=Blaze Pet
+item.petEnderChest.name=Ender Chest Pet
+item.petMooshroom.name=Mooshroom Pet
+item.petLoot.name=Loot Pet
+item.pingot.finds=Pingot has found 
 
 item.diamondNugget.name=Diamond Nugget
 item.obsidianNugget.name=Obsidian Nugget
@@ -49,12 +63,15 @@ tile.sandblock.name=Sand Block
 tile.sandspawn.name=Sand Spawner
 tile.stoneblock.name=Stone Block
 tile.stonespawn.name=Stone Spawner
-
-forge.client.shutdown.internal=Your Pets Say Goodbye!
-forge.update.newversion=Inventory Pets Rocks!
+tile.bed.notHere=You cannot sleep here
 
 entity.InventoryPets.MiniQuantumBlaze.name=Mini Quantum Blaze
 entity.InventoryPets.MiniQuantumEnderman.name=Mini Quantum Enderman
 
-item.netherportal.noreturn=Cannot find last return point, returning to last known Spawn point
+container.petnamer=Pet Namer
+gui.accept=Accept
 
+item.netherportal.noreturn=Cannot find last return point, returning to last known Spawn point
+item.chestpet.toomany=You can't use more than one Chest Pet at a time in the hotbar
+item.doublechestpet.toomany=You can't use more than one Double Chest Pet at a time in the hotbar
+inventorypets.update.download=["Update to the latest version at [",{"text":"CurseForge","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Click to show latest files","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/mc-mods/229380-inventory-pets/files"}},"]"]
