@@ -1,0 +1,74 @@
+item.petGhast.name=ペット ガスト
+item.petWither.name=ペット ウィザー
+item.petCreeper.name=ペット クリーパー
+item.petEnderman.name=ペット エンダーマン
+item.petIronGolem.name=ペット アイアンゴーレム
+item.petSnowGolem.name=ペット スノウゴーレム
+item.petSpider.name=ペット クモ
+item.petMagmaCube.name=ペット マグマキューブ
+item.petBlaze.name=ペット ブレイズ
+
+item.petSheep.name=ペット ヒツジ
+item.petCow.name=ペット ウシ
+item.petChicken.name=ペット ニワトリ
+item.petPig.name=ペット ブタ
+item.petSquid.name=ペット イカ
+item.petOcelot.name=ペット ヤマネコ
+
+item.petFurnace.name=ペット かまど
+item.petEnchantingTable.name=ペット エンチャントテーブル
+item.petCraftingTable.name=ペット 作業台
+item.petChest.name=ペット チェスト
+item.petDoubleChest.name=ペット ラージチェスト
+item.petBed.name=ペット ベッド
+item.petJukebox.name=ペット ジュークボックス
+item.petAnvil.name=ペット 金床
+item.petBrewingStand.name=ペット 醸造台
+item.petNetherPortal.name=ペット ネザーゲート
+
+item.petPingot.name=ペット ピンゴット
+item.petMickerson.name=ミッカーソン
+item.petPurpliciousCow.name=ペット ムラサキウシ
+item.petQuantumCrystalMonster.name=ペット 量子結晶モンスター
+item.petBanana.name=ペット バナナ
+
+item.petCloud.name=ペット 雲
+item.petBlackHole.name=ペット ブラックホール
+item.petPufferfish.name=ペット フグ
+item.petSlime.name=ペット スライム
+
+item.petShield.name=ペット 盾
+item.petMoon.name=ペット 月
+item.petHeart.name=ペット ハート
+item.petDubstep.name=ペット ダブステップ
+item.petSponge.name=ペット スポンジ
+item.petEnderChest.name=ペット エンダーチェスト
+item.petMooshroom.name=ペット ムーシュルーム
+item.petLoot.name=ペット ルート
+
+item.diamondNugget.name=Diamond Nugget
+item.obsidianNugget.name=Obsidian Nugget
+item.coalNugget.name=Coal Nugget
+item.emeraldNugget.name=Emerald Nugget
+item.ironNugget.name=Iron Nugget
+item.enderNugget.name=Ender Nugget
+item.lapisNugget.name=Lapis Nugget
+
+tile.cloudblock.name=Cloud Block
+tile.cloudspawn.name=Cloud Spawner
+tile.sandblock.name=Sand Block
+tile.sandspawn.name=Sand Spawner
+tile.stoneblock.name=Stone Block
+tile.stonespawn.name=Stone Spawner
+tile.bed.notHere=ここでは寝られません
+
+entity.InventoryPets.MiniQuantumBlaze.name=Mini Quantum Blaze
+entity.InventoryPets.MiniQuantumEnderman.name=Mini Quantum Enderman
+
+container.petnamer=Pet Namer
+gui.accept=Accept
+
+item.netherportal.noreturn=帰還地点が見つかりません。スポーン地点に戻ります。
+item.chestpet.toomany=ペット チェストは同時に１匹しかホットバーに入れられません
+item.doublechestpet.toomany=ペット ラージチェストは同時に１匹しかホットバーに入れられません
+inventorypets.update.download=["Update to the latest version at [",{"text":"CurseForge","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Click to show latest files","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/mc-mods/229380-inventory-pets/files"}},"]"]
