@@ -1,0 +1,75 @@
+item.petGhast.name=Ghast Przyjaciel
+item.petWither.name=Przyjaciel Wither
+item.petCreeper.name=Przyjaciel Creeper
+item.petEnderman.name=Pryjaciel z Kresu
+item.petIronGolem.name=Przyjaciel żelazny Golem
+item.petSnowGolem.name=Przyjaciel śnieżny Golem
+item.petSpider.name=Przyjaciel Pająk
+item.petMagmaCube.name=Przyjaciel Kostka Magmowa
+item.petBlaze.name=Przyjaciel Blaze
+
+item.petSheep.name=Przyjaciel Owca
+item.petCow.name=Przyjaciel Krowa
+item.petChicken.name=Przyjaciel Kurczak
+item.petPig.name=Przyjaciel świnia
+item.petSquid.name=Przyjaciel Kałamarnica
+item.petOcelot.name=Przyjaciel Kot
+
+item.petFurnace.name=Kieszonkowy Piecyk
+item.petEnchantingTable.name=Kieszonkowy Magiczny Stół
+item.petCraftingTable.name=TODO 
+item.petChest.name=Kieszonkowa Skrzynia
+item.petDoubleChest.name=Podwójna Kieszonkowa Skrzynia
+item.petBed.name=Kieszonkowe łóżko
+item.petJukebox.name=Kieszonkowy Jukebox
+item.petAnvil.name=Kieszonkowe Kowadło
+item.petBrewingStand.name=Kieszonkowa Stacja do Warzenia
+item.petNetherPortal.name=Kieszonkowy Portal do Nether'u
+
+item.petPingot.name=Sonarsztabka
+item.petMickerson.name=Mickerson
+item.petPurpliciousCow.name=Krowa Purplicious
+item.petQuantumCrystalMonster.name=Quantyczny Kryształowy Stwórek
+item.petBanana.name=Banan
+
+item.petCloud.name=Chmureczka
+item.petBlackHole.name=Oswojona Czarna Dziura
+item.petPufferfish.name=Kieszonkowa Rozdymka
+item.petSlime.name=Śluzik
+
+item.petShield.name=Tarcza
+item.petMoon.name=Mały Księżyc
+item.petHeart.name=Kieszonkowe serce
+item.petDubstep.name=Dubstepowiec
+item.petSponge.name=Gąbka Kieszonkowa
+item.petEnderChest.name=Kieszonkowa Skrzynia Kresu
+item.petMooshroom.name=TODO
+item.petLoot.name=TODO
+item.pingot.finds=Sonarsztabka znalazła 
+
+item.diamondNugget.name=Fragment diamentu
+item.obsidianNugget.name=Fragment Obsydianu
+item.coalNugget.name=Fragment Węgla
+item.emeraldNugget.name=Fragment Szmaragdu
+item.ironNugget.name=Fragment Żelaza
+item.enderNugget.name=Fragment Kresowy
+item.lapisNugget.name=Fragment Lapisu Lazuli
+
+tile.cloudblock.name=Chmura
+tile.cloudspawn.name=Chmurowy Spawner
+tile.sandblock.name=Piasek
+tile.sandspawn.name=Piaskowy Spawner
+tile.stoneblock.name=Kamień
+tile.stonespawn.name=Kamienny Spawner
+tile.bed.notHere=Nie możesz tu spać
+
+entity.InventoryPets.MiniQuantumBlaze.name=Mini Quantowy Blaze
+entity.InventoryPets.MiniQuantumEnderman.name=Mini Quantowy Enderman
+
+container.petnamer=Nazywanie
+gui.accept=Akceptuj
+
+item.netherportal.noreturn=Niemożna zaleść punktu wejścia, wracanie do ostatniego punktu Spawnu
+item.chestpet.toomany=Nie można używać więcej niż jednej kieszonkowej skrzyni naraz
+item.doublechestpet.toomany=Nie można używać więcej niż jednej podwójnej kieszonkowej skrzyni naraz
+inventorypets.update.download=["Update to the latest version at [",{"text":"CurseForge","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Click to show latest files","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/mc-mods/229380-inventory-pets/files"}},"]"]
