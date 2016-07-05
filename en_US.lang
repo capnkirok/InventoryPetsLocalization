@@ -47,7 +47,36 @@ item.petBlaze.name=Blaze Pet
 item.petEnderChest.name=Ender Chest Pet
 item.petMooshroom.name=Mooshroom Pet
 item.petLoot.name=Loot Pet
+
+item.petIlluminati.name=Illuminati Pet
+item.petJuggernaut.name=Juggernaut Pet
+item.petGrave.name=Grave Pet
+
+item.petPacMan.name=Pac-Man Pet
+item.petQuiver.name=Quiver Pet
+item.petAprilFool.name=April Fool Pet
+item.petCheetah.name=Cheetah Pet
+item.petHouse.name=House Pet
+item.petSilverfish.name=Silverfish Pet
+item.petWolf.name=Wolf Pet
+item.petApple.name=Apple Pet
+
+item.xeroxParcGui.name=Xerox PARC GUI
+item.windows31.name=Windoes 3.1
+item.blueScreenofDeath.name=Blue Screen of Death
+item.windowsMe.name=Windoes ME
+item.windowsXP.name=Windoes XP
+item.windowsMojave.name=Windoes Mojave
+item.windows7.name=Windoes 7
+item.windows8.name=Windoes 8
+item.startButton.name=Start Button
+item.EasterEgg.name=Easter Egg
+item.rockCandy.name=Rock Candy
+
 item.pingot.finds=Pingot has found 
+item.petHouse.spawnpoint=Home spawnpoint set at 
+
+item.petCustom.name=Custom Pet
 
 item.diamondNugget.name=Diamond Nugget
 item.obsidianNugget.name=Obsidian Nugget
@@ -56,6 +85,33 @@ item.emeraldNugget.name=Emerald Nugget
 item.ironNugget.name=Iron Nugget
 item.enderNugget.name=Ender Nugget
 item.lapisNugget.name=Lapis Nugget
+item.feedBag.name=Feed Bag
+
+item.candyCane.name=Candy Cane
+item.mugEggNog.name=Mug of Egg Nog
+item.holidayCookie.name=Holiday Cookie
+item.itemGift.name=Gift
+item.solstice_helmet.name=Solstice Helmet
+item.solstice_chestplate.name=Solstice Chestplate
+item.solstice_leggings.name=Solstice Leggings
+item.solstice_boots.name=Solstice Boots
+item.solstice_sword.name=Solstice Sword
+inventorypets.solstice.recipes=["Time for the 12 Days of Petmas! The fun begins on December 14. To play, simply craft your Holiday Pet: [",{"text":"Recipes Here","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"Click to see the Holiday Pet recipes","color":"dark_aqua"}},"clickEvent":{"action":"open_url","value":"http://www.creeptech.net/images/ip/recipes/holiday_rec.png"}},"]"]
+inventorypets.aprilfool.info=["It's April, Fools! For the month of April, enjoy the April Fool Pet, but be warned, he is quite unpredictable! [",{"text":"Recipe Here","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"Click to see April Fool Pet recipe","color":"dark_aqua"}},"clickEvent":{"action":"open_url","value":"http://www.creeptech.net/images/ip/recipes/aprilfool_rec.png"}},"]"]
+item.christmas_tree_pet.name=Christmas Tree Pet
+item.menorah_pet.name=Menorah Pet
+item.mishumaa_saba_pet.name=Mishumaa Saba Pet
+item.politically_correct_pet.name=Politically Correct Pet
+item.gift.notholiday=Holiday Pet only works during Petmas, between December 14-25
+item.fool.notholiday=April Fool Pet only works during the month of April
+item.gift.taken=You have already received your gift today
+item.gift.dates=Gifts are only valid between December 14-25
+pet.holiday.dates=Try again during Petmas, between December 14-25
+pet.fool.dates=Try again during the month of April
+pet.fool.disabled=April Foolishness has been disabled
+item.wolf.false=Wolf alarm off
+item.wolf.true=Wolf alarm on
+item.loot.noenchants=Loot Pet does not work with items enchanted with Fortune, Looting, or Silk Touch
 
 tile.cloudblock.name=Cloud Block
 tile.cloudspawn.name=Cloud Spawner
@@ -64,14 +120,23 @@ tile.sandspawn.name=Sand Spawner
 tile.stoneblock.name=Stone Block
 tile.stonespawn.name=Stone Spawner
 tile.bed.notHere=You cannot sleep here
+tile.bed.allPlayersNotSleeping=All players must be in beds
 
 entity.InventoryPets.MiniQuantumBlaze.name=Mini Quantum Blaze
 entity.InventoryPets.MiniQuantumEnderman.name=Mini Quantum Enderman
+entity.InventoryPets.BillGates.name=Bill Gates
+entity.InventoryPets.SteveBallmer.name=Steve Ballmer
+entity.InventoryPets.SatyaNadella.name=Satya Nadella
+entity.InventoryPets.EntityAnvilPet.name=Living Anvil
+entity.InventoryPets.Banana.name=Banana
+
+key.inventorypets.category=Inventory Pets
+key.categories.naming=Pet Namer
 
 container.petnamer=Pet Namer
 gui.accept=Accept
 
-item.netherportal.noreturn=Cannot find last return point, returning to last known Spawn point
-item.chestpet.toomany=You can't use more than one Chest Pet at a time in the hotbar
-item.doublechestpet.toomany=You can't use more than one Double Chest Pet at a time in the hotbar
-inventorypets.update.download=["Update to the latest version at [",{"text":"CurseForge","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Click to show latest files","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/mc-mods/229380-inventory-pets/files"}},"]"]
+item.netherportal.noreturn=Nether Portal cannot find last return point, returning to last known Spawn point
+item.netherportal.patience=Please remain patient while Nether Portal finds a safe spot
+item.juggernaut.cooldown=Juggernaut Pet on cooldown. Time remaining: 
+inventorypets.update.download=["Click to: [",{"text":"Download","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Click to see the latest files for 1.7.10 available for download","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/mc-mods/229380-inventory-pets/files?filter-game-version=2020709689%3A4449&filter-status=1"}},"]"]
