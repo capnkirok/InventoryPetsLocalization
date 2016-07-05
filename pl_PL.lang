@@ -17,7 +17,7 @@ item.petOcelot.name=Przyjaciel Kot
 
 item.petFurnace.name=Kieszonkowy Piecyk
 item.petEnchantingTable.name=Kieszonkowy Magiczny Stół
-item.petCraftingTable.name=TODO 
+item.petCraftingTable.name=
 item.petChest.name=Kieszonkowa Skrzynia
 item.petDoubleChest.name=Podwójna Kieszonkowa Skrzynia
 item.petBed.name=Kieszonkowe łóżko
@@ -43,8 +43,8 @@ item.petHeart.name=Kieszonkowe serce
 item.petDubstep.name=Dubstepowiec
 item.petSponge.name=Gąbka Kieszonkowa
 item.petEnderChest.name=Kieszonkowa Skrzynia Kresu
-item.petMooshroom.name=TODO
-item.petLoot.name=TODO
+item.petMooshroom.name=
+item.petLoot.name=
 item.pingot.finds=Sonarsztabka znalazła 
 
 item.diamondNugget.name=Fragment diamentu
@@ -68,6 +68,32 @@ entity.InventoryPets.MiniQuantumEnderman.name=Mini Quantowy Enderman
 
 container.petnamer=Nazywanie
 gui.accept=Akceptuj
+
+item.candyCane.name=Laska cukrowa
+item.mugEggNog.name=Kubek "Egg Nog"
+item.holidayCookie.name=Świątowe Ciastko
+item.itemGift.name=Prezent
+item.solstice_helmet.name=Przesilieniowy Hełm
+item.solstice_chestplate.name=Przesilieniowy Napierśnik
+item.solstice_leggings.name=Przesilieniowe Spodnie
+item.solstice_boots.name=Przesilieniowe Buty
+item.solstice_sword.name=Przesilieniowy Miecz
+inventorypets.solstice.recipes=["Czas na 12 Dni Petmas! Zabawa zaczyna się 14 Grudnia. Aby zagrać, zcraftuj Świątecznego Przyjaciela: [",{"text":"Recipes Here","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"Click to see the Holiday Pet recipes","color":"dark_aqua"}},"clickEvent":{"action":"open_url","value":"http://www.creeptech.net/images/ip/recipes/holiday_rec.png"}},"]"]
+inventorypets.aprilfool.info=["Jest kwiecień! Przez cały miesiąc używaj Przyjaciela Prima Aprilis, ale uwarzaj, jest bardzo nieprzewidalnie! [",{"text":"Recipe Here","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"Click to see April Fool Pet recipe","color":"dark_aqua"}},"clickEvent":{"action":"open_url","value":"http://www.creeptech.net/images/ip/recipes/aprilfool_rec.png"}},"]"]
+item.christmas_tree_pet.name=Kieszonkowe Drzewko Gwiazdkowe
+item.menorah_pet.name=Kieszonkowe Menorah
+item.mishumaa_saba_pet.name=Przyjaciel Mishumaa Saba
+item.politically_correct_pet.name=Politycznie Poprawny Przyjaciel
+item.gift.notholiday=świąteczny Przyjaciel działa tylko podczas Petmas (14-25 Grudnia)
+item.fool.notholiday=Przyjaciel Pryma Aprilis działa tylko w kwiecień
+item.gift.taken=Już dostałeś prezent dzisiaj!
+item.gift.dates=Prezenty tylko działają w Grudniu 14-25
+pet.holiday.dates=Spróbuj ponownie podczas Petmas (14-25 Grudnia)
+pet.fool.dates=Spróbuj ponownie w kwietniu
+pet.fool.disabled=Prima aprilis jest wyłączone... :(
+item.wolf.false=Wilczy alarm wyłączony
+item.wolf.true=Wilczy alarm włączony
+item.loot.noenchants=Loot Pet nie działa z Fortune, Looting, lub Silk Touch.
 
 item.netherportal.noreturn=Niemożna zaleść punktu wejścia, wracanie do ostatniego punktu Spawnu
 item.chestpet.toomany=Nie można używać więcej niż jednej kieszonkowej skrzyni naraz
