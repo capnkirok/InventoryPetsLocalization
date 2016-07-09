@@ -1,0 +1,142 @@
+item.petGhast.name=ペット ガスト
+item.petWither.name=ペット ウィザー
+item.petCreeper.name=ペット クリーパー
+item.petEnderman.name=ペット エンダーマン
+item.petIronGolem.name=ペット アイアンゴーレム
+item.petSnowGolem.name=ペット スノウゴーレム
+item.petSpider.name=ペット クモ
+item.petMagmaCube.name=ペット マグマキューブ
+item.petBlaze.name=ペット ブレイズ
+
+item.petSheep.name=ペット ヒツジ
+item.petCow.name=ペット ウシ
+item.petChicken.name=ペット ニワトリ
+item.petPig.name=ペット ブタ
+item.petSquid.name=ペット イカ
+item.petOcelot.name=ペット ヤマネコ
+
+item.petFurnace.name=ペット かまど
+item.petEnchantingTable.name=ペット エンチャントテーブル
+item.petCraftingTable.name=ペット 作業台
+item.petChest.name=ペット チェスト
+item.petDoubleChest.name=ペット ラージチェスト
+item.petBed.name=ペット ベッド
+item.petJukebox.name=ペット ジュークボックス
+item.petAnvil.name=ペット 金床
+item.petBrewingStand.name=ペット 醸造台
+item.petNetherPortal.name=ペット ネザーゲート
+
+item.petPingot.name=ペット ピンゴット
+item.petMickerson.name=ミッカーソン
+item.petPurpliciousCow.name=ペット ムラサキウシ
+item.petQuantumCrystalMonster.name=ペット 量子結晶モンスター
+item.petBanana.name=ペット バナナ
+
+item.petCloud.name=ペット 雲
+item.petBlackHole.name=ペット ブラックホール
+item.petPufferfish.name=ペット フグ
+item.petSlime.name=ペット スライム
+
+item.petShield.name=ペット 盾
+item.petMoon.name=ペット 月
+item.petHeart.name=ペット ハート
+item.petDubstep.name=ペット ダブステップ
+item.petSponge.name=ペット スポンジ
+item.petBanana.name=ペット バナナ
+item.petBlaze.name=ペット　ブレイズ
+item.petEnderChest.name=ペット エンダーチェスト
+item.petMooshroom.name=ペット ムーシュルーム
+item.petLoot.name=ペット ドロップ
+
+item.petIlluminati.name=ペット イルミナティ
+item.petJuggernaut.name=ペット　ジャガーノート
+item.petGrave.name=ペット　墓
+
+item.petPacMan.name=ペット　パックマン
+item.petQuiver.name=ペット　矢筒
+item.petAprilFool.name=ペット　エイプリルフール
+item.petCheetah.name=ペット　チーター
+item.petHouse.name=ペット　ハウス
+item.petSilverfish.name=ペット　シルバーフィッシュ
+item.petWolf.name=ペット　オオカミ
+item.petApple.name=ペット　リンゴ
+
+item.xeroxParcGui.name=Xerox PARC GUI
+item.windows31.name=Windoes 3.1
+item.blueScreenofDeath.name死のブルースクリーン
+item.windowsMe.name=Windoes ME
+item.windowsXP.name=Windoes XP
+item.windowsMojave.name=Windoes Mojave
+item.windows7.name=Windoes 7
+item.windows8.name=Windoes 8
+item.startButton.name=スタートボタン
+item.EasterEgg.name=イースターエッグ
+item.rockCandy.name=クリスタルキャンディ
+
+item.pingot.finds=鉱石を発見: 
+item.petHouse.spawnpoint=ホームポイントをセットしました: 
+
+item.petCustom.name=ペット カスタム
+
+item.diamondNugget.name=ダイヤモンドの小さな塊
+item.obsidianNugget.name=黒曜石の小さな塊
+item.coalNugget.name=石炭の小さな塊
+item.emeraldNugget.name=エメラルドの小さな塊
+item.ironNugget.name=鉄の小さな塊
+item.enderNugget.name=エンダーパールの小さな塊
+item.lapisNugget.name=ラピスラズリの小さな塊
+item.feedBag.name=エサ袋
+
+item.candyCane.name=キャンディステッキ
+item.mugEggNog.name=エッグノッグ
+item.holidayCookie.name=クリスマスクッキー
+item.itemGift.name=おくりもの
+item.solstice_helmet.name=極限のヘルメット
+item.solstice_chestplate.name=極限のチェストプレート
+item.solstice_leggings.name=極限のレギンス
+item.solstice_boots.name=極限のブーツ
+item.solstice_sword.name=極限の剣
+inventorypets.solstice.recipes=["Happy Holiday!! 特別なペットたちが使えます！: [",{"text":"レシピ","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"クリックしてペットたちのレシピを見る","color":"dark_aqua"}},"clickEvent":{"action":"open_url","value":"http://www.creeptech.net/images/ip/recipes/holiday_rec.png"}},"]"]
+inventorypets.aprilfool.info=["エイプリルフールです。ペット　エイプリルフールが使えます！しかし気をつけてください。彼は本当に何をするかわかりません！！ [",{"text":"レシピ","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"クリックしてペット　エイプリルフールのレシピを見る","color":"dark_aqua"}},"clickEvent":{"action":"open_url","value":"http://www.creeptech.net/images/ip/recipes/aprilfool_rec.png"}},"]"]
+item.christmas_tree_pet.name=ペット　クリスマスツリー
+item.menorah_pet.name=ペット　ユダヤの燭台
+item.mishumaa_saba_pet.name=ペット アフリカン・アメリカンの燭台
+item.politically_correct_pet.name=ペット 人種差別はいけない！
+item.gift.notholiday=このペットたちは12月14日～25日の間だけ有効です
+item.fool.notholiday=ペット　エイプリルフールは4月の間だけ有効です
+item.gift.taken=あなたは今日すでにおくりものを受け取りました
+item.gift.dates=おくりものは12月14日～25日の間だけ有効です
+pet.holiday.dates=クリスマスにまた試してください (12月14日～25日)
+pet.fool.dates=4月にまた試してください
+pet.fool.disabled=四月馬鹿は無効です
+item.wolf.false=Wolf alarm off
+item.wolf.true=Wolf alarm on
+item.loot.noenchants=ペット　ドロップは幸運、ドロップ増加、シルクタッチの装備には効果がありません
+
+tile.cloudblock.name=雲ブロック
+tile.cloudspawn.name=雲スポナー
+tile.sandblock.name=砂ブロック
+tile.sandspawn.name=砂スポナー
+tile.stoneblock.name=石ブロック
+tile.stonespawn.name=石スポナー
+tile.bed.notHere=ここでは寝られません
+tile.bed.allPlayersNotSleeping=プレイヤーが全員寝ていません
+
+entity.InventoryPets.MiniQuantumBlaze.name=ミニクァンタム・ブレイズ
+entity.InventoryPets.MiniQuantumEnderman.name=ミニクァンタム・エンダーマン
+entity.InventoryPets.BillGates.name=ビル・ゲイツ
+entity.InventoryPets.SteveBallmer.name=スティーブ・バルマー
+entity.InventoryPets.SatyaNadella.name=サティア・ナデラ
+entity.InventoryPets.EntityAnvilPet.name=生きた金床
+entity.InventoryPets.Banana.name=ペット　バナナ
+
+key.inventorypets.category=Inventory Pets
+key.categories.naming=ペットネーマー
+
+container.petnamer=ペットネーマー
+gui.accept=決定
+
+item.netherportal.noreturn=ホームポイントが見つかりません。スポーン地点に戻ります。
+item.netherportal.patience=安全な場所を探しています。しばらくお待ちください。
+item.juggernaut.cooldown=クールタイム: 
+inventorypets.update.download=["Click to: [",{"text":"Download","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Click to see the latest files for 1.7.10 available for download","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/mc-mods/229380-inventory-pets/files?filter-game-version=2020709689%3A4449&filter-status=1"}},"]"]
