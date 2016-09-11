@@ -17,7 +17,7 @@ item.petOcelot.name=Przyjaciel Kot
 
 item.petFurnace.name=Kieszonkowy Piecyk
 item.petEnchantingTable.name=Kieszonkowy Magiczny Stół
-item.petCraftingTable.name=
+item.petCraftingTable.name=Kieszonkowy Stół Rzemieślniczy
 item.petChest.name=Kieszonkowa Skrzynia
 item.petDoubleChest.name=Podwójna Kieszonkowa Skrzynia
 item.petBed.name=Kieszonkowe łóżko
@@ -43,8 +43,8 @@ item.petHeart.name=Kieszonkowe serce
 item.petDubstep.name=Dubstepowiec
 item.petSponge.name=Gąbka Kieszonkowa
 item.petEnderChest.name=Kieszonkowa Skrzynia Kresu
-item.petMooshroom.name=
-item.petLoot.name=
+item.petMooshroom.name=Kieszonkowy Mooshroom
+item.petLoot.name=Przyjaciel od skarbw
 item.pingot.finds=Sonarsztabka znalazła 
 
 item.diamondNugget.name=Fragment diamentu
