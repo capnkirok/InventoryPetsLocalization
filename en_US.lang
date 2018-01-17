@@ -91,7 +91,6 @@ item.gift.taken=You have already received your gift today
 item.gift.dates=Gifts are only valid between December 14-25
 pet.holiday.dates=Try again during Petmas, between December 14-25
 
-
 item.inventorypets_nugget_diamond.name=Diamond Nugget
 item.inventorypets_nugget_obsidian.name=Obsidian Nugget
 item.inventorypets_nugget_coal.name=Coal Nugget
@@ -119,7 +118,6 @@ entity.inventorypets.SatyaNadella.name=Satya Nadella
 entity.inventorypets.EntityAnvilPet.name=Living Anvil
 entity.inventorypets.EntityBedPet.name=Living Bed
 entity.inventorypets.Banana.name=Banana
-
 
 item.wolf.false=Wolf alarm off
 item.wolf.true=Wolf alarm on
