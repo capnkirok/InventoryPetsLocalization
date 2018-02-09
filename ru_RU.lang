@@ -6,14 +6,14 @@ item.inventorypets_iron_golem_pet.name=Питомец-Железный голе�
 item.inventorypets_snow_golem_pet.name=Питомец-Снеговик
 item.inventorypets_spider_pet.name=Питомиц-Паук
 item.inventorypets_magma_cube_pet.name=Питомец-Лавовый Куб
- 
+
 item.inventorypets_sheep_pet.name=Питомец-Овца
 item.inventorypets_cow_pet.name=Питомец-Корова
 item.inventorypets_chicken_pet.name=Питомец-Курица
 item.inventorypets_pig_pet.name=Питомец-Свинья
 item.inventorypets_squid_pet.name=Питомец-Осьминог
 item.inventorypets_ocelot_pet.name=Питомец-Оцелот
- 
+
 item.inventorypets_furnace_pet.name=Питомец-Печь
 item.inventorypets_enchanting_table_pet.name=Питомец-Стол зачарований
 item.inventorypets_crafting_table_pet.name=Питомец-Верстак
@@ -24,33 +24,33 @@ item.inventorypets_jukebox_pet.name=Питомец-Проигрыватель
 item.inventorypets_anvil_pet.name=Питомец-Наковальня
 item.inventorypets_brewing_stand_pet.name=Питомец-Варочная стойка
 item.inventorypets_nether_portal_pet.name=Питомец-Портал в Нижний мир
- 
+
 item.inventorypets_pingot_pet.name=Питомец-Сонар
 item.inventorypets_mickerson_pet.name=Микерсон
-item.inventorypets_purplicious_cow_pet.name=Пурпурная Корова
-item.inventorypets_qcm_pet.name=Монстр Квантового Кристалла
- 
+item.inventorypets_purplicious_cow_pet.name=Питомец-Пурпурная Корова
+item.inventorypets_qcm_pet.name=Питомец-Монстр Квантового Кристалла
+
 item.inventorypets_cloud_pet.name=Питомец-Облако
 item.inventorypets_black_hole_pet.name=Питомец-Черная дыра
 item.inventorypets_pufferfish_pet.name=Питомец-Иглобрюх
 item.inventorypets_slime_pet.name=Питомец-Слизень
- 
+
 item.inventorypets_shield_pet.name=Питомец-Щит
 item.inventorypets_moon_pet.name=Питомец-Луна
 item.inventorypets_heart_pet.name=Питомец-Сердце
-item.inventorypets_dubstep_pet.name=Питомец-Саббуфер
+item.inventorypets_dubstep_pet.name=Питомец-Дабстеп
 item.inventorypets_sponge_pet.name=Питомец-Губка
 item.inventorypets_banana_pet.name=Питомец-Банан
 item.inventorypets_blaze_pet.name=Питомец-Ифрит
 item.inventorypets_ender_chest_pet.name=Питомец-Сундук Края
 item.inventorypets_mooshroom_pet.name=Питомец-Грибная Корова
 item.inventorypets_loot_pet.name=Питомец-Лут
- 
+
 item.inventorypets_juggernaut_pet.name=Питомец-Джаггернаут
 item.inventorypets_grave_pet.name=Питомец-Надгробие
 item.inventorypets_illuminati_pet.name=Питомец-Иллюминат
 item.inventorypets_custom_pet.name=Измененный питомец
- 
+
 item.inventorypets_pacman_pet.name=Питомец-Пакман
 item.inventorypets_quiver_pet.name=Питомец-Колчан
 item.inventorypets_april_fool_pet.name=Первоапрельский питомец
@@ -59,19 +59,19 @@ item.inventorypets_house_pet.name=Питомец-Дом
 item.inventorypets_silverfish_pet.name=Питомец-Чешуйница
 item.inventorypets_wolf_pet.name=Питомец-Волк
 item.inventorypets_apple_pet.name=Питомец-Яблоко
- 
-item.inventorypets_xerox_parc_gui.name=Xerox PARC GUI
-item.inventorypets_windows_31.name=Windoes 3.1
+
+item.inventorypets_xerox_parc_gui.name=Интерфейс Xerox PARC
+item.inventorypets_windows_31.name=Шиндошс 3.1
 item.inventorypets_blue_screen_of_death.name=Синий Экран Смерти
-item.inventorypets_windows_me.name=Windoes ME
-item.inventorypets_windows_xp.name=Windoes XP
-item.inventorypets_windows_mojave.name=Windoes Mojave
-item.inventorypets_windows_7.name=Windoes 7
-item.inventorypets_windows_8.name=Windoes 8
+item.inventorypets_windows_me.name=Шиндошс ME
+item.inventorypets_windows_xp.name=Шиндошс XP
+item.inventorypets_windows_mojave.name=Шиндошс Mojave
+item.inventorypets_windows_7.name=Шиндошс 7
+item.inventorypets_windows_8.name=Шиндошс 8
 item.inventorypets_start_button.name=Пуск
 item.inventorypets_easter_egg.name=Пасхальное яйцо
 item.inventorypets_rock_candy.name=Карамель
- 
+
 item.inventorypets_candy_cane.name=Карамельная трость
 item.inventorypets_mug_egg_nog.name=Кружка яичного коктейля
 item.inventorypets_holiday_cookie.name=Праздничное печенье
@@ -90,8 +90,8 @@ item.gift.notholiday=Праздничный питомец работает то
 item.gift.taken=Ты уже получил свой подарок сегодня!
 item.gift.dates=Подарки работают только 14-25 декабря
 pet.holiday.dates=Попробуйте еще раз во время Пет-ждества, 14-25 декабря
- 
- 
+
+
 item.inventorypets_nugget_diamond.name=Алмазный самородок
 item.inventorypets_nugget_obsidian.name=Обсидиановый самородок
 item.inventorypets_nugget_coal.name=Угольный самородок
@@ -100,17 +100,17 @@ item.inventorypets_nugget_iron.name=Железный самородок
 item.inventorypets_nugget_ender.name=Самородок края
 item.inventorypets_nugget_lapis.name=Ляписовый самородок
 item.inventorypets_feed_bag.name=Мешочек с кормом
- 
+
 tile.inventorypets_cloud.name=Блок облака
 tile.inventorypets_cloud_spawn.name=Облачный спавнер
 tile.inventorypets_sand.name=Песчаный блок
 tile.inventorypets_sand_spawn.name=Песчаный спавнер
 tile.inventorypets_stone.name=Каменный блок
 tile.inventorypets_stone_spawn.name=Каменный спавнер
- 
+
 tile.bed.notHere=Вы не можете спать здесь
 tile.bed.allPlayersNotSleeping=Все игроки должны спать
- 
+
 entity.inventorypets.MiniQuantumBlaze.name=Малый Квантовый Ифрит
 entity.inventorypets.MiniQuantumEnderman.name=Малый Квантовый Эндермен
 entity.inventorypets.BillGates.name=Билл Гейтс
@@ -118,25 +118,35 @@ entity.inventorypets.SteveBallmer.name=Стив Балмер
 entity.inventorypets.SatyaNadella.name=Сатья Наделла
 entity.inventorypets.EntityAnvilPet.name=Живая наковальня
 entity.inventorypets.EntityBedPet.name=Живая кровать
-entity.inventorypets.Banana.name=Банан
- 
+entity.inventorypets.Banana.name=Банана!
+
+entity.MiniQuantumBlaze.name=Малый Квантовый Ифрит
+entity.MiniQuantumEnderman.name=Малый Квантовый Эндермен
+entity.BillGates.name=Билл Гейтс
+entity.SteveBallmer.name=Стив Балмер
+entity.SatyaNadella.name=Сатья Наделла
+entity.EntityAnvilPet.name=Живая наковальня
+entity.EntityBedPet.name=Живая кровать
+entity.Banana.name=Банана!
+
+
 item.wolf.false=Охрана волком выключена
 item.wolf.true=Охрана волком включена
-item.loot.noenchants=Питомец-Лут не работает с предметами, зачарованными на Удачу, Добычу, или Шелковое Касание
+item.loot.noenchants=Питомец-Лут не работает с предметами, зачарованными на Удачу, Добычу или Шелковое Касание
 item.petHouse.spawnpoint=Домашняя точка установлена на
 inventorypets.aprilfool.info=["Настало Первое Апреля! Весь апрель играй с Первоапрельским Питомцем, но будь осторожен, он довольно непредсказуем! [",{"text":"Рецепт","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"Нажми, чтобы увидеть, как создать Первоапрельского питомца","color":"dark_aqua"}},"clickEvent":{"action":"open_url","value":"http://www.creeptech.net/images/ip/recipes/aprilfool_rec.png"}},"]"]
 pet.fool.dates=Попробуйте снова в течение апреля
 pet.fool.disabled=Апрельское дурачество отключено :(
- 
+
 container.petnamer=Называтель питомцев
 gui.accept=Принять
- 
+
 key.inventorypets.category=Карманные питомцы
 key.categories.naming=Называтель питомцев
- 
-item.netherportal.noreturn=Портал не может найти последнюю точку возращения, возращаемся к последней точке спавна
+
+item.netherportal.noreturn=Портал не может найти последнюю точку возвращения, возвращаемся к последней известной точке спавна
 item.netherportal.patience=Подождите, пока портал найдет безопасное место
-inventorypets.update.download=["Click to: [",{"text":"Загрузить","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Нажмите, чтобы просмотреть последнее обновление для 1.10","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/projects/inventory-pets/files"}},"]"]
+inventorypets.update.download=["Click to: [",{"text":"Загрузить","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Нажмите, чтобы просмотреть последнее обновление для 1.12.2","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/projects/inventory-pets/files"}},"]"]
 achievement.ip.petachieve1=Первые шаги
 achievement.ip.petachieve1.desc=Получите своего первого питомца!
 achievement.ip.petachieve5=Начинающий хозяин
@@ -164,12 +174,12 @@ achievement.ip.petachieveAOE.desc=Получите всех АОЕ питомц�
 achievement.ip.petachieveLegend=Легендарно
 achievement.ip.petachieveLegend.desc=Получите всех легендарных питомцев
 achievement.ip.petachieveIlluminati=ИЛЛЮМИНАТЫ ПОВСЮДУ!!
-achievement.ip.petachieveIlluminati.desc=Получите питомца-иллюмината через другог питомца-иллюмината!
+achievement.ip.petachieveIlluminati.desc=Получите питомца-иллюмината через другого питомца-иллюмината!
 achievement.ip.petachieveHolidaysOne=Пет-ждество!
 achievement.ip.petachieveHolidaysOne.desc=Откройте подарок Пет-ждества
 achievement.ip.petachieveHolidaysAll=Подарено
 achievement.ip.petachieveHolidaysAll.desc=Получите все подарки во время Пет-ждества
- 
+
 tooltip.ip.peaceful=Мирный
 tooltip.ip.mob=Моб
 tooltip.ip.special=Специальный
@@ -184,14 +194,14 @@ tooltip.ip.rawmeat=Сырое мясо
 tooltip.ip.rightclick=Нажать ПКМ
 tooltip.ip.sneak=Присесть
 tooltip.ip.sneakrightclick=Присесть + Нажать ПКМ
-tooltip.ip.suggestedby=Предложенно
+tooltip.ip.suggestedby=Предложено
 tooltip.ip.designedby=Нарисовано
- 
+
 tooltip.ip.petanvil1=Медленно чинит
 tooltip.ip.petanvil2=Поврежденные предметы в инвентаре
 tooltip.ip.petanvil3=Заспавнить Живую Наковальню (2 минуты)
 tooltip.ip.petapple1=Спам-Бросок
-tooltip.ip.petapple2=Забиатель свай
+tooltip.ip.petapple2=Забиватель свай
 tooltip.ip.petaprilfool1=Начать дурачество
 tooltip.ip.petbanana1=Бросить
 tooltip.ip.petbanana2=Авто-возвращение
@@ -241,7 +251,7 @@ tooltip.ip.petloot1=Дополнительный дроп с мобов
 tooltip.ip.petloot2=и при добыче ресурсов
 tooltip.ip.petmagmacube1=Сопротивление огню
 tooltip.ip.petmagmacube2=Ходить по лаве
-tooltip.ip.petmickerson1=Сопртивление
+tooltip.ip.petmickerson1=Сопротивление
 tooltip.ip.petmickerson2=Секрет жизни
 tooltip.ip.petmoon1=Обращает гравитацию мобов и предметов
 tooltip.ip.petmooshroom1=Эффект костной муки
@@ -255,7 +265,7 @@ tooltip.ip.petpacman1=Ест за вас, когда Вы голодны
 tooltip.ip.petpacman2=Супер-увеличение урона
 tooltip.ip.petpig1=Дополнительная сытость
 tooltip.ip.petpig2=Может есть отравленную еду
-tooltip.ip.petpig3=Дает свинную отбивную
+tooltip.ip.petpig3=Дает свиную отбивную
 tooltip.ip.petpingot1=Ищет руды
 tooltip.ip.petpingot2=Автоматически извлекает руды поблизости
 tooltip.ip.petpufferfish1=Шипы
@@ -270,7 +280,7 @@ tooltip.ip.petsheep2=Дает шерсть
 tooltip.ip.petshield1=Групповое сопротивление
 tooltip.ip.petsilverfish1=Неуязвимость к удушью
 tooltip.ip.petsilverfish2=Проходит через стены
-tooltip.ip.petslime1=Спасает от ВЕРНОЙ СМЕРТИ
+tooltip.ip.petslime1=Спасает от верной смерти
 tooltip.ip.petsnowgolem1=Отбрасывание
 tooltip.ip.petsnowgolem2=Дает снежки
 tooltip.ip.petspider1=Прыгучесть
@@ -288,24 +298,24 @@ tooltip.ip.petwither1=Кража здоровья 25%
 tooltip.ip.petwither2=Неуязвимость к Иссушению
 tooltip.ip.petwolf1=Призывает волка
 tooltip.ip.petwolf2=Охрана волками
- 
+
 tooltip.ip.petmasopen=Открыть немедленно!
 tooltip.ip.petmasvalid=Note: Только во время Пет-ждества, Декабрь 14-25
 tooltip.ip.eat=Съесть
 tooltip.ip.drink=Выпить
 tooltip.ip.candycane1=Скорость II (5 минут)
 tooltip.ip.candycane2=Спешка II (5 минут)
-tooltip.ip.solsticesword1=+9 Дополнительног урона на каждый удар (складывается)
-tooltip.ip.solsticesword2=Перезаредка после трех секунд бездействия
+tooltip.ip.solsticesword1=+9 Дополнительного урона на каждый удар (складывается)
+tooltip.ip.solsticesword2=Перезарядка после трех секунд бездействия
 tooltip.ip.easteregg=Заспавнить дружеского CEO
 tooltip.ip.holidaycookie1=Сила II (5 минут)
 tooltip.ip.eggnog1=Мгновенное полное здоровье
 tooltip.ip.foolishnesscooldown=Дурачество на перезарядке. Осталось
-tooltip.ip.homespawnpoint=Домашня точка установлена на
+tooltip.ip.homespawnpoint=Домашняя точка установлена на
 tooltip.ip.illuminaticooldown=на перезарядке. Осталось
 tooltip.ip.pingotfound=Сонар нашел
 tooltip.ip.wolfsays1=говорит, что
 tooltip.ip.wolfsays2=поблизости.
-tooltip.ip.xeroxparcgui=Возможно бесполезен
+tooltip.ip.xeroxparcgui=Возможно, бесполезен
 info.ip.livingbedinteract=Накорми меня моей любимой едой, чтобы поспать
 info.ip.livinganvilinteract=Накорми меня моей любимой едой, чтобы починить предметы
