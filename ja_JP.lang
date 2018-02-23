@@ -25,7 +25,7 @@ item.inventorypets_anvil_pet.name=ペット-金床
 item.inventorypets_brewing_stand_pet.name=ペット-醸造台
 item.inventorypets_nether_portal_pet.name=ペット-ネザーポータル
 
-item.inventorypets_pingot_pet.name=ペット-Pインゴット
+item.inventorypets_pingot_pet.name=ペット-ピンゴット
 item.inventorypets_mickerson_pet.name=ペット-ミッカーソン
 item.inventorypets_purplicious_cow_pet.name=ペット-ムラサキウシ
 item.inventorypets_qcm_pet.name=ペット-量子結晶モンスター
@@ -300,7 +300,7 @@ tooltip.ip.eggnog1=体力を最大まで回復
 tooltip.ip.foolishnesscooldown=ピエロはクールダウン中です。 残り時間
 tooltip.ip.homespawnpoint=ホームポイントをセットしました
 tooltip.ip.illuminaticooldown=はクールダウン中です。残り時間
-tooltip.ip.pingotfound=Pインゴットが鉱石を見つけました: 
+tooltip.ip.pingotfound=ピンゴットが鉱石を見つけました: 
 tooltip.ip.wolfsays1=が近くに 
 tooltip.ip.wolfsays2= を見つけました。
 tooltip.ip.xeroxparcgui=おそらく何の役にも立ちません
