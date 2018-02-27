@@ -44,7 +44,7 @@ item.inventorypets_banana_pet.name=ペット-バナナ
 item.inventorypets_blaze_pet.name=ペット-ブレイズ
 item.inventorypets_ender_chest_pet.name=ペット-エンダーチェスト
 item.inventorypets_mooshroom_pet.name=ペット-ムーシュルーム
-item.inventorypets_loot_pet.name=ペット-戦利品
+item.inventorypets_loot_pet.name=ペット-ドロップ
 
 item.inventorypets_juggernaut_pet.name=ペット-ジャガーノート	
 item.inventorypets_grave_pet.name=ペット-墓
@@ -121,7 +121,7 @@ entity.inventorypets.Banana.name=ペット-バナナ
 
 item.wolf.false=オオカミ: Off
 item.wolf.true=オオカミ: On
-item.loot.noenchants=ペット-戦利品 は幸運、ドロップ増加、シルクタッチの装備には効果がありません
+item.loot.noenchants=ペット-ドロップ は幸運、ドロップ増加、シルクタッチの装備には効果がありません
 item.petHouse.spawnpoint=ホームポイントをセットしました: 
 inventorypets.aprilfool.info=["4月だ!エイプリルフールだ! 今だけ ペット-エイプリルフール が使えます。しかし気をつけてください、彼は本当に何をするかわかりません! [",{"text":"レシピ","color":"aqua","hoverEvent":{"action":"show_text","value":{"text":"レシピを見る","color":"dark_aqua"}},"clickEvent":{"action":"open_url","value":"http://www.creeptech.net/images/ip/recipes/aprilfool_rec.png"}},"]"]
 pet.fool.dates=4月にまた試してください
@@ -235,7 +235,7 @@ tooltip.ip.petjukebox1=インベントリにあるディスクを再生
 tooltip.ip.petjukebox2=再生停止
 tooltip.ip.petjukebox3=曲をスキップ
 tooltip.ip.petloot1=モブを倒した際や採掘した際に
-tooltip.ip.petloot2=追加で戦利品を得る
+tooltip.ip.petloot2=より多くアイテムがドロップする
 tooltip.ip.petmagmacube1=火炎耐性
 tooltip.ip.petmagmacube2=溶岩ダメージ無効
 tooltip.ip.petmickerson1=耐性
